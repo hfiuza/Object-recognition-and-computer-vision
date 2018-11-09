@@ -1,3 +1,4 @@
+# Assignment 1
 .ipynb_checkpoints/
 A1/A1_images.tar.gz
 A1/cyvlfeat_files.txt
@@ -8,3 +9,22 @@ A1/libvl.so
 A1/paintings_imdb_SIFT_10k_preprocessed.mat
 A1/vlfeat-0.9.20-bin.tar.gz
 A1/vlfeat-0.9.20/
+
+# Assignment 2
+A2/cifar-10-batches-py/
+A2/cifar-10-python.tar.gz
+A2/double_moon_train1000.mat
+A2/double_moon_train1000.mat.1
+A2/double_moon_train1000.mat.2
+A2/double_moon_train1000.mat.3
+A2/double_moon_val1000.mat
+A2/double_moon_val1000.mat.1
+A2/double_moon_val1000.mat.2
+A2/double_moon_val1000.mat.3
+A2/old.ipynb
+A2/peppers.png
+A2/peppers.png.1
+A2/peppers.png.2
+A2/peppers.png.3
+A2/peppers.png.4
+A2/peppers.png.5
